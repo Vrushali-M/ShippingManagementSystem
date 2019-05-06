@@ -1,0 +1,40 @@
+th {
+    padding: 15px;
+    text-align: left;
+     border-bottom: 1px solid #ddd;
+     background-color: #4c94af;
+    color: white;
+}
+td{
+    padding: 15px;
+    text-align: left;
+     border-bottom: 1px solid #ddd;
+     background-color: #4cd2dd;
+    color: white;
+
+}
+h1 {
+	text-align: center;
+	font-size: 150%;
+}
+
+div
+{align-content: center;
+	text-align: center;
+	 margin-left: auto;
+    margin-right: auto;
+   position: absolute;
+  margin: auto;
+ top:0px;
+  right: 50%;
+  bottom: 10%;
+  left: 10%;
+  width: 1300px;
+  height: auto;
+  
+}
+table
+{
+	align-items: center;
+	width: 1300px;
+}
